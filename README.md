@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshsharma836
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development and Java Programming.
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -hs.harshsharma.hs@gmail.com
