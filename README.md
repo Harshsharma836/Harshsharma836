@@ -1,11 +1,9 @@
 
-<img src="https://www.vijaytechzone.in/assets/img/page-title/full-stack-web-developer-in-trichy.jpg" alt="MasterHead" height="300px" width ="100%">
-
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">Passionate Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsharma836&label=Profile%20views&color=0e75b6&style=flat" alt="harshsharma836" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
