@@ -1,5 +1,5 @@
 <!-- Introduction Section -->
-<h1>Hello there! 👋 I'm Harsh Sharma, an Experienced Full-Stack Developer.</h1>
+<h1>Hello there! 👋 I'm Harsh Sharma, an Full-Stack Developer.</h1>
 
 <!-- Tech Stack Section -->
 <h3>My Tech Stack:</h3>
@@ -8,7 +8,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NESTJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -30,9 +29,10 @@
   <a href="https://leetcode.com/harsh6645" ">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" />
   </a> | 
-  <a href="https://github.com/Harshsharma836" ">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" height="30" width="30" />
-  </a>
+<a href="https://hashnode.com/@HarshSharma1" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgBPEENtUuyW1L65l72EWmwVuTjGi6iII1EA&usqp=CAU" alt="Hashnode" height="30" width="30" />
+</a>
+
 </p>
 
 <!-- Footer Section -->
